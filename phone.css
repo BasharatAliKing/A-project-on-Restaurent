@@ -1,0 +1,48 @@
+/* Css Phone Start Here : */
+
+/* header and Home Section */
+.navbar {
+    flex-direction: column;
+}
+
+#head::before{
+    height: 125%;
+}
+
+/* Services Section */
+#services {
+    flex-direction: column;
+}
+
+
+/* About us Section */
+#abouts img{
+    width: 100px;
+    
+}
+
+
+
+/* Contact Us Section */
+#contacts{
+    
+    margin: 0px;
+}
+#contacts input{
+    padding: 0px;
+
+}
+#contacts textarea{
+    padding: 0px;
+    cols="20";
+}
+#contacts form{
+    width: 50px;
+}
+.btn{
+    margin: 4px 100px;
+}
+.contact::before{
+    height: 50%;
+    padding-bottom: 10px;
+}
